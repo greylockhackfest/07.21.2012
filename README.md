@@ -32,7 +32,7 @@ Josh MacFarland, TellApart, CEO<br>
 Sasha Aickin, Redfin, CTO<br>
 Dion Almaer, WalmartLabs, VP Mobile Architecture<br>
 
-<b>Greylock Hackfest Championship</b> - 3.15pm
+<b>Greylock Hackfest Championship</b> - 3.15pm<br>
 Reid Hoffman, Greylock, Partner 
 Mike Schroepfer, Facebook, VPE
 Kevin Systrom, Instagram, CEO
@@ -50,6 +50,6 @@ Mike Olson, cloudera, CEO
 - One Greylock Hackfest Swag Bag for each team member
 
 *3rd prize: third place*
-One Drobo for each team member<br>
-$1,000 per student in Amazon Web Services credits to be used for any point over two years<br>
-One Greylock Hackfest Swag Bag for each team member
+- One Drobo for each team member<br>
+- $1,000 per student in Amazon Web Services credits to be used for any point over two years<br>
+- One Greylock Hackfest Swag Bag for each team member
