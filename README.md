@@ -1,5 +1,5 @@
 **Friendly reminder**: Teams not to exceed 4 students<br>
-Questions? Email julie@greylock.com, find me at DropboxHQ, or twitter (@jgoulie)
+Questions? Email julie@greylock.com, find me at DropboxHQ, or twitter (@jgoulie)<br>
 www.greylockU.com
 
 <b>Agenda</b><br>
