@@ -1,3 +1,5 @@
+**Friendly reminder**: Teams not to exceed 4 students<br>
+
 <b>Agenda</b><br>
 07.21.2012: <br>
 1pm Official kick off <br>
