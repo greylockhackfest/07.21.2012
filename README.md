@@ -2,11 +2,11 @@
 Questions? Email julie@greylock.com, find me at DropboxHQ, or twitter (@jgoulie)
 
 <b>Agenda</b><br>
-07.21.2012: <br>
+*07.21.2012*<br>
 1pm Official start <br>
 
-07.22.2012: <br>
-**10am: Deadline to register teams (http://typewith.me/p/greylockhackfest)**<br>
+*07.22.2012* <br>
+**10am: Deadline to register teams** (http://typewith.me/p/greylockhackfest)<br>
 1pm: Competition is over<br>
 1.15 - 1.45pm: preliminary judging (3 * 3 judges)<br>
 3.15pm: Greylock Hackfest Championship (top 10 teams)<br><br>
