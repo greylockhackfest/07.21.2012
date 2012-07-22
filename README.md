@@ -19,7 +19,7 @@
 
 We will post the order of the presentations (chosen randomly) outside each judging room before noon on Sunday. You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
 
-Preliminary judges include:<br>
+**Preliminary judges include:**<br>
 - Andreas Ehn, Wrapp, CTO<br>
 - Jason Bosinoff, TrialPay, VPE<br>
 - Christian Beedgen, SumoLogic, CTO & co-founder<br>
@@ -31,5 +31,9 @@ Preliminary judges include:<br>
 - Dion Almaer, WalmartLabs, VP Mobile Architecture<br>
 
 
-
+**Greylock Hackfest Championship**<br>
+- Reid Hoffman, Greylock, Partner 
+- Mike Schroepfer, Facebook, VPE
+- Kevin Systrom, Instagram, CEO
+- Mike Olson, cloudera, CEO
 
