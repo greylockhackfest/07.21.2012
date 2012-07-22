@@ -13,7 +13,11 @@
 2. Originality (how unique and innovative is your hack?)<br>
 3. Practicality (how useful is this hack based on the problem you're trying to solve?)<br>
 4. Aesthetics (how good is the vidual design & UX?)<br>
-5. The WOW factor (how epic and mind blowing is your hack?)<br>
+5. The WOW factor (how epic and mind blowing is your hack?)<br><br>
+
+We will post the teams outside each judging room before noon on Sunday. You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
+
+
 
 
 
