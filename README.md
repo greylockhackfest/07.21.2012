@@ -19,7 +19,7 @@ www.greylockU.com
 4. Aesthetics (how good is the vidual design & UX?)<br>
 5. The WOW factor (how epic and mind blowing is your hack?)<br><br>
 
-<b>We will post the order of the presentations (chosen randomly) outside each judging room before noon on Sunday</b>. You will have 3-4 minutes to present in front of the preliminary judges (private sessions). Make sure you pay close attention to the order so to not miss your spot!
+<b>We will post the order of the presentations (chosen randomly) outside each judging room before noon on Sunday</b>. Make sure you pay close attention to the order!You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
 
 <b>Preliminary judges include</b> - 1.15 - 2.45pm
 Andreas Ehn, Wrapp, CTO<br>
