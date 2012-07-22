@@ -33,9 +33,9 @@ Sasha Aickin, Redfin, CTO<br>
 Dion Almaer, WalmartLabs, VP Mobile Architecture<br>
 
 <b>Greylock Hackfest Championship</b> - 3.15pm<br>
-Reid Hoffman, Greylock, Partner 
-Mike Schroepfer, Facebook, VPE
-Kevin Systrom, Instagram, CEO
+Reid Hoffman, Greylock, Partner<br>
+Mike Schroepfer, Facebook, VPE<br>
+Kevin Systrom, Instagram, CEO<br>
 Mike Olson, cloudera, CEO
 
 <b>Prizes</b><br>
