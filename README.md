@@ -40,14 +40,14 @@ Mike Olson, cloudera, CEO
 
 <b>Prizes</b><br>
 *1st prize: Greylock Hackfest Champion*
-A private dinner With Reid Hoffman & John Lilly, limo service included<br>
-$3,000 per student in Amazon Web Services credits to be used for any point over two years<br>
-One Greylock Hackfest Swag Bag for each team member
+- A private dinner With Reid Hoffman & John Lilly, limo service included<br>
+- $3,000 per student in Amazon Web Services credits to be used for any point over two years<br>
+- One Greylock Hackfest Swag Bag for each team member
 
 *2nd prize: runner-up*
-One Lytro camera for each team member<br>
-$2,000 per student in Amazon Web Services credits to be used for any point over two years<br>
-One Greylock Hackfest Swag Bag for each team member
+- One Lytro camera for each team member<br>
+- $2,000 per student in Amazon Web Services credits to be used for any point over two years<br>
+- One Greylock Hackfest Swag Bag for each team member
 
 *3rd prize: third place*
 One Drobo for each team member<br>
