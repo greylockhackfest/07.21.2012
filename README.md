@@ -1,8 +1,9 @@
 **Friendly reminder**: Teams not to exceed 4 students<br>
+Questions? Email julie@greylock.com, find me at DropboxHQ, or twitter (@jgoulie)
 
 <b>Agenda</b><br>
 07.21.2012: <br>
-1pm Official kick off <br>
+1pm Official start <br>
 
 07.22.2012: <br>
 **10am: Deadline to register teams (http://typewith.me/p/greylockhackfest)**<br>
@@ -31,7 +32,7 @@ We will post the order of the presentations (chosen randomly) outside each judgi
 - Dion Almaer, WalmartLabs, VP Mobile Architecture<br>
 
 
-<b>Greylock Hackfest Championship<b> - 3.15pm
+<b>Greylock Hackfest Championship</b> - 3.15pm
 - Reid Hoffman, Greylock, Partner 
 - Mike Schroepfer, Facebook, VPE
 - Kevin Systrom, Instagram, CEO
