@@ -21,7 +21,7 @@ www.greylockU.com
 
 <b>We will post the order of the presentations (chosen randomly) outside each judging room before noon on Sunday</b>. Make sure you pay close attention to the order!You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
 
-<b>Preliminary judges include</b> - 1.15 - 2.45pm
+<b>Preliminary judges include</b> - 1.15 - 2.45pm<br>
 Andreas Ehn, Wrapp, CTO<br>
 Jason Bosinoff, TrialPay, VPE<br>
 Christian Beedgen, SumoLogic, CTO & co-founder<br>
