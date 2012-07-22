@@ -15,8 +15,18 @@
 4. Aesthetics (how good is the vidual design & UX?)<br>
 5. The WOW factor (how epic and mind blowing is your hack?)<br><br>
 
-We will post the teams outside each judging room before noon on Sunday. You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
+We will post the order of the presentations (chosen randomly) outside each judging room before noon on Sunday. You will have 3-4 minutes to present in front of the preliminary judges (private sessions)
 
+Preliminary judges include:<br>
+- Andreas Ehn, Wrapp, CTO<br>
+- Jason Bosinoff, TrialPay, VPE<br>
+- Christian Beedgen, SumoLogic, CTO & co-founder<br>
+- Nate Boyd, Nomic, co-founder<br>
+- Jeff Winner, CardSpring, CTO<br>
+- Damon Sicore, Mozilla, VPE<br>
+- Josh MacFarland, TellApart, CEO<br>
+- Sasha Aickin, Redfin, CTO<br>
+- Dion Almaer, WalmartLabs, VP Mobile Architecture<br>
 
 
 
