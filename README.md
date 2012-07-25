@@ -7,7 +7,7 @@ www.greylockU.com
 1pm Official start <br>
 
 *07.22.2012* <br>
-**10am: Deadline to register teams** (http://typewith.me/p/greylockhackfest)<br>
+**10am: Deadline to register teams**<br>
 1pm: Competition is over<br>
 1.15 - 1.45pm: preliminary judging (3 * 3 judges)<br>
 3.15pm: Greylock Hackfest Championship (top 10 teams)<br><br>
